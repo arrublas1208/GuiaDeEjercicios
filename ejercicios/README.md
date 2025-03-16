@@ -6,6 +6,6 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 
 - [Ejercicio Cardio](ejercicios/Cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Boxeo](ejercicios/Boxeo.md): Mejora la coordinación y la resistencia.
-
+- [Ejercicio de CrossFit](ejercicios/CrossFit.md): Entrenamiento intensivo y funcional.
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
