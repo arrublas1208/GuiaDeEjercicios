@@ -10,5 +10,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Fuerza](ejercicios/Fuerza.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Entrenamiento Funcional](ejercicios/Entrenamiento_Funcional.md): Mejora la fuerza en movimientos cotidianos.
 - [Ejercicio de Flexibilidad](ejercicios/Flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
-
+- [Ejercicio de Natación](ejercicios/Natación.md): Trabaja todos los grupos musculares de manera suave.
+- [Ejercicio de Pilates](ejercicios/Pilates.md): Fortalece el núcleo y mejora la postura.
+- [Ejercicio de Yoga](ejercicios/Yoga.md): Fomenta la relajación y la flexibilidad.
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
