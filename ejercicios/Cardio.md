@@ -14,3 +14,12 @@ Los ejercicios de cardio son actividades dinámicas que elevan tu ritmo cardíac
 - Fortalece músculos y articulaciones: Dependiendo del ejercicio, puedes trabajar piernas, brazos y core.
 
 - Aumenta la resistencia: Te permite realizar actividades diarias con menos fatiga.
+
+
+#Instrucciones
+
+1. Calentamiento (5-10 minutos): Prepara tu cuerpo con movimientos suaves como saltos, trotar en el lugar o estiramientos dinámicos.
+
+2. Actividad principal (30-60 minutos): Elige una actividad que disfrutes, como correr, nadar, saltar la cuerda, bailar o andar en bicicleta. Mantén un ritmo constante pero desafiante.
+
+3. Enfriamiento y estiramientos (5-10 minutos): Reduce gradualmente la intensidad y finaliza con estiramientos para relajar los músculos y prevenir lesiones.
