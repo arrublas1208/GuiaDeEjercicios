@@ -29,3 +29,14 @@ El entrenamiento de fuerza se enfoca en aumentar la capacidad muscular mediante 
 - Descanso: Descansa entre 30 y 60 segundos entre series.
 
 3. Enfriamiento y estiramientos (5-10 minutos): Reduce la intensidad con movimientos suaves y estira los músculos trabajados.
+
+# Consejos
+- Mantén una técnica adecuada: Prioriza la forma correcta sobre el peso para evitar lesiones.
+
+- Progresión gradual: Aumenta el peso o la intensidad de manera gradual.
+
+- Hidrátate: Bebe agua antes, durante y después del entrenamiento.
+
+- Combina grupos musculares: Trabaja diferentes grupos musculares en cada sesión (por ejemplo, piernas un día y brazos otro).
+
+- Escucha a tu cuerpo: Si sientes dolor o fatiga extrema, toma un descanso.
