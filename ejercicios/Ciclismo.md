@@ -15,3 +15,18 @@ El ciclismo es una actividad cardiovascular de bajo impacto que mejora la resist
 - De bajo impacto: Es suave para las articulaciones, lo que lo hace ideal para personas con problemas de rodilla o cadera.
 
 - Reduce el estrés: Pedalear al aire libre o en un entorno relajado ayuda a liberar tensiones.
+
+
+# Instrucciones
+
+1. Calentamiento (5-10 minutos): Comienza con un pedaleo suave para preparar tus músculos y articulaciones. Incluye estiramientos dinámicos para las piernas y la espalda.
+
+2. Actividad principal (30-60 minutos):
+
+- Ritmo constante: Mantén un ritmo moderado durante 20-30 minutos para mejorar la resistencia.
+
+- Intervalos de alta intensidad: Alterna entre sprints cortos (30-60 segundos) y pedaleo suave (1-2 minutos) para aumentar la quema de calorías y mejorar la condición física.
+
+- Subidas y bajadas: Si estás al aire libre, busca colinas para trabajar la fuerza y la resistencia.
+
+3. Enfriamiento y estiramientos (5-10 minutos): Reduce gradualmente la intensidad del pedaleo y finaliza con estiramientos para las piernas, espalda y hombros.
