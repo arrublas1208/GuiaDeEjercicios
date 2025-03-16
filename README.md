@@ -14,4 +14,4 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Pilates](ejercicios/Pilates.md): Fortalece el núcleo y mejora la postura.
 - [Ejercicio de Yoga](ejercicios/Yoga.md): Fomenta la relajación y la flexibilidad.
 - [Ejercicio de Ciclismo](ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
-¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
+**¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!**
