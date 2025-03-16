@@ -30,3 +30,14 @@ El ciclismo es una actividad cardiovascular de bajo impacto que mejora la resist
 - Subidas y bajadas: Si estás al aire libre, busca colinas para trabajar la fuerza y la resistencia.
 
 3. Enfriamiento y estiramientos (5-10 minutos): Reduce gradualmente la intensidad del pedaleo y finaliza con estiramientos para las piernas, espalda y hombros.
+
+# consejos
+- Ajusta la bicicleta: Asegúrate de que el sillín y el manillar estén en la posición correcta para evitar lesiones.
+
+- Mantén una postura adecuada: Espalda recta, hombros relajados y codos ligeramente flexionados.
+
+- Hidrátate: Bebe agua antes, durante y después del ejercicio.
+
+- Usa equipo de seguridad: Casco, guantes y luces si vas a pedalear al aire libre.
+
+- Varía las rutas: Explora nuevos caminos para mantener la motivación.
