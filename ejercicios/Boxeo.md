@@ -29,3 +29,16 @@ El boxeo es un deporte de alto rendimiento que combina fuerza, velocidad y resis
 6. Sombra: Simula un combate frente a un espejo para mejorar movimientos y defensa.
 
 7. Enfriamiento y estiramientos (5-10 minutos): Reduce la intensidad con movimientos suaves y estira brazos, hombros, piernas y espalda.
+
+
+
+# Consejos
+- Protege tus manos: Usa vendas o guantes de boxeo para evitar lesiones.
+
+- Mantén una postura correcta: Pies separados al ancho de los hombros, rodillas ligeramente flexionadas y manos cerca del rostro.
+
+- Respira adecuadamente: Exhala al golpear e inhala al recuperar la posición.
+
+- Combina con movimientos de pies: Practica desplazamientos laterales y giros para mejorar la agilidad.
+
+- Escucha a tu cuerpo: Si sientes fatiga extrema o dolor, toma un descanso.
