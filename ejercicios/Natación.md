@@ -30,3 +30,15 @@ La natación es un ejercicio completo que trabaja todo el cuerpo, mejora la resi
 - Intensidad: Varía la intensidad entre nados suaves y sprints cortos.
 
 3. Enfriamiento (5-10 minutos): Reduce la intensidad con un nado suave y realiza estiramientos fuera del agua.
+
+
+# Consejos
+- Mantén una técnica adecuada: Prioriza la forma correcta sobre la velocidad para evitar lesiones.
+
+- Hidrátate: Bebe agua antes y después de nadar, incluso si no sientes sed.
+
+- Usa equipo adecuado: Gafas de natación, gorros y trajes de baño cómodos.
+
+- Varía los estilos: Alterna entre diferentes estilos de nado para trabajar diferentes grupos musculares.
+
+- Escucha a tu cuerpo: Si sientes fatiga extrema o dolor, toma un descanso.
