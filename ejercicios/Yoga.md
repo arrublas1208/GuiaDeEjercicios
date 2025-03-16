@@ -29,3 +29,14 @@ El yoga es una práctica milenaria que combina posturas físicas (asanas), respi
 - Meditación: Incluye unos minutos de meditación al final de la práctica para relajar la mente.
 
 3. Enfriamiento y relajación (5-10 minutos): Termina con posturas de relajación como "Savasana" (postura del cadáver) y respiraciones profundas.
+
+# Consejos
+- Mantén una técnica adecuada: Prioriza la alineación correcta en cada postura.
+
+- Respira profundamente: Inhala y exhala de manera lenta y constante durante toda la práctica.
+
+- Escucha a tu cuerpo: No fuerces las posturas más allá de tu límite cómodo.
+
+- Sé consistente: Practica yoga regularmente para ver mejoras en la flexibilidad y la relajación.
+
+- Combina con otras actividades: El yoga es un complemento ideal para el entrenamiento de fuerza y cardio.
