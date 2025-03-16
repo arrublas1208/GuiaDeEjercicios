@@ -31,3 +31,15 @@ El CrossFit es un entrenamiento funcional de alta intensidad que combina ejercic
 - Ejercicios comunes: Sentadillas, flexiones, dominadas, saltos al cajón, levantamiento de pesas y remo.
 
 3. Enfriamiento y estiramientos (5-10 minutos): Reduce la intensidad con movimientos suaves y estira los músculos trabajados.
+
+
+# Consejos
+- Mantén una técnica adecuada: Prioriza la forma sobre la velocidad para evitar lesiones.
+
+- Escala los ejercicios: Si eres principiante, modifica los movimientos para adaptarlos a tu nivel.
+
+- Hidrátate: Bebe agua antes, durante y después del entrenamiento.
+
+- Usa equipo adecuado: Zapatillas con buen soporte y ropa cómoda.
+
+- Escucha a tu cuerpo: Si sientes dolor o fatiga extrema, toma un descanso.
