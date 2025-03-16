@@ -13,3 +13,19 @@ El entrenamiento de fuerza se enfoca en aumentar la capacidad muscular mediante 
 - Incrementa la resistencia física: Te permite realizar actividades diarias con mayor facilidad.
 
 - Mejora la postura y el equilibrio: Fortalece los músculos centrales (core) y estabilizadores.
+
+
+# Instrucciones
+1. Calentamiento (5-10 minutos): Prepara tu cuerpo con movimientos dinámicos como saltos, trotes en el lugar o estiramientos.
+
+2. Actividad principal (30-60 minutos):
+
+- Ejercicios básicos: Realiza sentadillas, flexiones, peso muerto y press de banca.
+
+- Series y repeticiones: Haz 3-4 series de 8-12 repeticiones por ejercicio.
+
+- Uso de equipos: Incorpora pesas, mancuernas, barras o bandas elásticas para aumentar la resistencia.
+
+- Descanso: Descansa entre 30 y 60 segundos entre series.
+
+3. Enfriamiento y estiramientos (5-10 minutos): Reduce la intensidad con movimientos suaves y estira los músculos trabajados.
