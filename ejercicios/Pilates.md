@@ -28,3 +28,14 @@ El Pilates es un método de entrenamiento que combina movimientos controlados, r
 - Respiración: Coordina cada movimiento con una respiración profunda y controlada.
 
 3. Enfriamiento y estiramientos (5-10 minutos): Reduce la intensidad con movimientos suaves y estiramientos para relajar los músculos.
+
+# Consejos
+- Mantén una técnica adecuada: Prioriza la precisión y el control sobre la cantidad de repeticiones.
+
+- Concéntrate en la respiración: Inhala y exhala de manera profunda y coordinada con los movimientos.
+
+- Escucha a tu cuerpo: No fuerces los movimientos más allá de tu límite cómodo.
+
+- Sé consistente: Realiza Pilates regularmente para ver mejoras en la fuerza y la flexibilidad.
+
+- Combina con otras actividades: El Pilates es un complemento ideal para el entrenamiento de fuerza y cardio.
