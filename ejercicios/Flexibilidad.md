@@ -38,3 +38,14 @@ Los ejercicios de flexibilidad están diseñados para mejorar el rango de movimi
 - Yoga o Pilates: Incorpora posturas de yoga o ejercicios de Pilates para mejorar la flexibilidad y la fuerza.
 
 3. Enfriamiento (5-10 minutos): Termina con estiramientos suaves y respiraciones profundas para relajar el cuerpo.
+
+# Consejos
+- No rebotes: Mantén los estiramientos de manera controlada para evitar lesiones.
+
+- Respira profundamente: Inhala y exhala de manera lenta y constante durante los estiramientos.
+
+- Escucha a tu cuerpo: No fuerces los estiramientos más allá de tu límite cómodo.
+
+- Sé consistente: Realiza ejercicios de flexibilidad regularmente para ver mejoras.
+
+- Combina con otras actividades: La flexibilidad es un complemento ideal para el entrenamiento de fuerza y cardio.
