@@ -14,3 +14,19 @@ La natación es un ejercicio completo que trabaja todo el cuerpo, mejora la resi
 - Quema calorías: Es un ejercicio intenso que ayuda a mantener o perder peso.
 
 - Reduce el estrés: El agua tiene un efecto relajante que ayuda a liberar tensiones.
+
+
+# Instrucciones
+1. Calentamiento (5-10 minutos): Comienza con un nado suave para preparar tus músculos y articulaciones. Incluye estiramientos dinámicos fuera del agua.
+
+2. Actividad principal (30-60 minutos):
+
+- Estilos de nado: Alterna entre diferentes estilos como crol, espalda, braza y mariposa.
+
+- Series y repeticiones: Haz series de largos (por ejemplo, 10 largos de 25 metros) con descansos cortos entre ellos.
+
+- Técnica: Enfócate en la técnica correcta para maximizar la eficiencia y reducir el riesgo de lesiones.
+
+- Intensidad: Varía la intensidad entre nados suaves y sprints cortos.
+
+3. Enfriamiento (5-10 minutos): Reduce la intensidad con un nado suave y realiza estiramientos fuera del agua.
